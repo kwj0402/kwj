@@ -37,7 +37,7 @@ static int count(String s1,String s2)//统计子字符串被包含次数
 
 while((index=s1.indexOf(s2,index))>-1)//indexOf查找字符串的第一次出现
 
-运行截图：
+运行截图：https://github.com/kwj0402/kwj/blob/master/1573994698(1).jpg
 
 
 编程感想：这次编程对我而言难度中等偏上，主要是奇数和偶数位置插入不同的符号有点难度。运用for循环成功的解决了。让我对JAVA有了更好的感觉。我相信在老师的带领下我会继续进步。
