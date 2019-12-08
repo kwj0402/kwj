@@ -102,7 +102,9 @@ catch (IOException e1) {
 	fw.close();
 
 五、流程图：
-六、运行截图：
+六、运行截图：https://github.com/kwj0402/kwj/blob/master/a.png
+             https://github.com/kwj0402/kwj/blob/master/b.png
+             https://github.com/kwj0402/kwj/blob/master/c.png
 七、编程感想
 此次编程为JAVA最后一次实验，伴随着JAVA课程的结束，我对JAVA的理解和应用也有些很大的进步，在老师和同学们的指导下，我克服了一个一个困难，最终完成这次非常苦难的编程工作。总的来说，这次编程是所有实验中难度最大，工作量最大的一次。当然，没有困难，何来进步。JAVA语言是我非常喜爱的一门计算机语言，有些广泛的运用以及有趣的程序编辑。希望再今后的学习及工作中好好的运用它并且继续扩展JAVA学习的深度。
 	
