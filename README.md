@@ -101,7 +101,7 @@ catch (IOException e1) {
 	fw.write(s_2.toString() + "\n");
 	fw.close();
 
-五、流程图：
+五、流程图：https://github.com/kwj0402/kwj/blob/master/d.png
 六、运行截图：https://github.com/kwj0402/kwj/blob/master/a.png
              https://github.com/kwj0402/kwj/blob/master/b.png
              https://github.com/kwj0402/kwj/blob/master/c.png
